@@ -20,9 +20,9 @@
 
 prefix='amdgpu-pro'
 # amdgpu-pro package version
-major='20'
-minor='40'
-build='1147286'
+major='21'
+minor='20'
+build='1271047'
 system='ubuntu-20.04'
 # libdrm-amdgpu-amdgpu1 version
 libdrmver='2.4.100'
